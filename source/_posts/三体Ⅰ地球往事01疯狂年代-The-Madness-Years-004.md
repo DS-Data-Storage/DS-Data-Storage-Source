@@ -1,6 +1,6 @@
 ---
 title: 三体Ⅰ地球往事01疯狂年代 The Madness Years 004
-date: 2025-09-14 17:48:00
+date: 2025-09-16 01:10:00
 categories:
 - 三体Ⅰ地球往事
 ---
@@ -12,7 +12,7 @@ categories:
 		英文句子精读与翻译
 	</h2>
 	<p style="color: #7f8c8d; text-align: center;">
-		三体Ⅰ地球往事01疯狂年代 The Madness Years 004
+		深度解析句子结构，提升阅读翻译能力
 	</p>
 </section>
 
@@ -145,12 +145,12 @@ categories:
 
 		<h4 style="color: #922B21; font-size: 17px;">中文原文：</h4>
 		<p style="font-size: 16px; color: #922B21; padding: 10px; background-color: white; border-left: 4px solid #E74C3C;">
-			xxx
+			他怕的是大楼中那十几个大铁炉子，里面塞满了烈性炸药，用电雷管串联起来，他看不到它们，但能感觉到它们磁石般的存在，开关一合，玉石俱焚。
 		</p>
 
 		<h4 style="color: #922B21; margin-top: 20px; font-size: 17px;">英文直译：</h4>
 		<p style="font-size: 16px; color: #922B21; padding: 10px; background-color: white; border-left: 4px solid #E74C3C;">
-			xxx
+			但是指挥官害怕大楼里那十几个装满炸药并通过电雷管相互连接的铁炉。他看不见它们，但能感觉到它们的存在，就像铁感受到附近磁铁的吸引力一样。如果守卫者按下开关，革命者和反革命者都会在同一场大火球中丧生。
 		</p>
 	</section>
 </section>

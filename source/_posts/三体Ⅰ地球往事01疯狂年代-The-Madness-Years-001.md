@@ -12,7 +12,7 @@ categories:
 		英文句子精读与翻译
 	</h2>
 	<p style="color: #7f8c8d; text-align: center;">
-		深度解析英语句子结构，提升阅读理解与翻译能力
+		深度解析句子结构，提升阅读翻译能力
 	</p>
 </section>
 
