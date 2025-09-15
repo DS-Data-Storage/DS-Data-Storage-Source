@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://hyj1999.github.io/3body/
-root: /3body/
+url: https://DS-Data-Storage.github.io/DS-Data-Storage/
+root: /DS-Data-Storage/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,14 +97,13 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Fluids 
+theme: fluid 
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: 
-    github: https://github.com/hyj1999/3body.git
-  branch: gh-pages
-  message: "站点更新: {{ now('2025-MM-DD HH:mm:ss') }}"
+  repo: https://github.com/DS-Data-Storage/DS-Data-Storage.git
+  branch: main
+  message: "Site updated: {{ now('DD HH:mm:ss') }}"
   
