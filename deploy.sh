@@ -75,7 +75,7 @@ main() {
         
         # 推送到 GitHub
         log_info "推送源码到 GitHub..."
-        git push origin main
+        git push origin master
     fi
     
     # 切换回原始分支
