@@ -1,6 +1,9 @@
 ---
-title: 三体Ⅰ地球往事01疯狂年代 The Madness Years 003
+title: 1.3 The Madness Years 003《三体Ⅰ：01 疯狂年代》
 date: 2025-09-14 16:59:00
+tags:
+- 三体
+- 疯狂年代
 categories:
 - 三体Ⅰ地球往事
 ---
@@ -32,7 +35,7 @@ categories:
 		</h3>
 		<section style="text-align: center; margin: 20px 0;">
 			<audio controls style="width: 100%; max-width: 400px; margin: 10px 0;">
-				<source src="1-1疯狂年代_The_Madness_Years_003.mp3" type="audio/mpeg"/>
+				<source src="/THE_THREE_BODY_PROBLEM_Audio_Book/01_The_Madness_Years_003.mp3" type="audio/mpeg"/>
 				您的浏览器不支持音频播放功能
 			</audio>
 		</section>
