@@ -103,7 +103,7 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/DS-Data-Storage/DS-Data-Storage.git
+  repo: https://github.com/DS-Data-Storage/DS-Data-Storage.github.io.git
   branch: main
   message: "Site updated: {{ now('DD HH:mm:ss') }}"
   
