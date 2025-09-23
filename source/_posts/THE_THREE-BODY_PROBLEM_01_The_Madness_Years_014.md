@@ -79,7 +79,7 @@ categories:
 		</h3>
 
 		<!-- 全句音标 -->
-		<p style="margin: 0 0 10px 0;"><strong>全句音标（含连读、失去爆破）：</strong></p>
+		<p style="margin: 0 0 10px 0;"><strong>全句音标：</strong></p>
 		<p style="background-color: white; padding: 10px; border-left: 4px solid #f39c12; font-family: 'Courier New', monospace; color: #2c3e50;">
 			/məʊst əv ðə ɡeɪts ˈmetl bɑːz, kæpt wɪð ʃɑːp tɪps, həd bɪn pʊld daʊn ət ðə bɪˈɡɪnɪŋ əv ðə ˈfækʃənl ˈsɪvl wɔːz tə bi juːzd æz spɪəz, bət tuː stɪl rɪˈmeɪnd. æz ðeə ʃɑːp tɪps kɔːt ðə ɡɜːl, laɪf siːmd tə rɪˈtɜːn ˈməʊməntrəli tə hə ˈbɒdi/
 		</p>

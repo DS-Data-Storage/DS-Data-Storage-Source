@@ -83,7 +83,7 @@ categories:
 		</h3>
 
 		<!-- 全句音标 -->
-		<p style="margin: 0 0 10px 0;"><strong>全句音标（连读与失去爆破已标注）：</strong></p>
+		<p style="margin: 0 0 10px 0;"><strong>全句音标：</strong></p>
 		<p style="background-color: white; padding: 10px; border-left: 4px solid #f39c12; font-family: 'Courier New', monospace; color: #2c3e50;">
 			/ðə red ˈjunjən ˈwɒriəz ˈʃaʊtɪd ɪn dʒɔɪ. ə fjuː rʌʃt tə ðə fʊt əv ðə ˈbɪldɪŋ, tɔːr əˈweɪ ðə ˈbætl ˈbænə ɒv ði ˈeɪprəl ˈtwentiˌeɪtθ brɪˈɡeɪd, ənd siːzd ðə ˈslendə ˈlaɪfləs ˈbɒdi. ðeɪ reɪzd ðeə ˈtrəʊfi ˈəʊvəhed ənd ˈflɔːntɪd ɪt fə ə waɪl bɪˈfɔː ˈtɒsɪŋ ɪt təˈwɔːdz ðə tɒp əv ðə ˈmetl ɡeɪt ɒv ðə ˈkɒmpaʊnd/
 		</p>

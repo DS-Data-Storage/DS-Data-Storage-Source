@@ -79,7 +79,7 @@ categories:
 		</h3>
 
 		<!-- 全句音标 -->
-		<p style="margin: 0 0 10px 0;"><strong>全句音标（含连读、失去爆破）：</strong></p>
+		<p style="margin: 0 0 10px 0;"><strong>全句音标：</strong></p>
 		<p style="background-color: white; padding: 10px; border-left: 4px solid #f39c12; font-family: 'Courier New', monospace; color: #2c3e50;">
 			/ðə red ɡɑːdz bækt ʌp sʌm ˈdɪstəns ənd bɪˈɡæn tə juːz ði ɪmˈpeɪld ˈbɒdi fə ˈtɑːɡɪt ˈpræktɪs. fə hə, ðə dens stɔːm əv ˈbʊlɪts wɒz naʊ nəʊ ˈdɪfrənt frəm ə ˈdʒentl reɪn, æz ʃi kəd nəʊ ˈlɒŋə fiːl ˈeniθɪŋ. frɒm taɪm tə taɪm, hə ˈvaɪnlaɪk ɑːmz dʒɜːkt əˈkrɒs hə ˈbɒdi ˈsɒftli, æz ðəʊ ʃi wə ˈflɪkɪŋ ɒf drɒps əv reɪn/
 		</p>
