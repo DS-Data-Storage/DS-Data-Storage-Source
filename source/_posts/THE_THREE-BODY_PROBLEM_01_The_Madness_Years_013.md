@@ -149,7 +149,7 @@ categories:
 
 		<h4 style="color: #922B21; margin-top: 20px; font-size: 17px;">英文直译：</h4>
 		<p style="font-size: 16px; color: #922B21; padding: 10px; background-color: white; border-left: 4px solid #E74C3C;">
-			红色联盟的战士们欢呼着。有几个冲到楼脚下，扯掉了四二八旅的战斗旗帜，抓住了那具瘦长的、毫无生气的尸体。他们将奖杯举过头顶，炫耀了一会儿，然后将它抛向大院金属大门的顶部。
+			红色联盟的战士们欢呼着。有几个冲到楼脚下，扯掉了四二八旅的战斗旗帜，抓住了那具瘦长的、毫无生气的尸体。他们将战利品举过头顶，炫耀了一会儿，然后将它抛向大院金属大门的顶部。
 		</p>
 	</section>
 </section>

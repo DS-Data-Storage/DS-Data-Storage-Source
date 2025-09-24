@@ -146,7 +146,7 @@ categories:
 
 		<h4 style="color: #922B21; margin-top: 20px; font-size: 17px;">英文直译：</h4>
 		<p style="font-size: 16px; color: #922B21; padding: 10px; background-color: white; border-left: 4px solid #E74C3C;">
-			红卫兵后退了一段距离，开始用被刺穿的身体进行打靶练习。对她来说，密集的枪林弹雨现在和轻柔的雨没什么不同，因为她再也感觉不到任何东西了。她像醋一样的手臂不时轻轻地在身上晃动，仿佛在拂去雨滴。
+			红卫兵后退了一段距离，开始用被刺穿的身体进行打靶练习。对她来说，密集的枪林弹雨现在和轻柔的雨没什么不同，因为她再也感觉不到任何东西了。她像藤蔓一样的手臂不时轻轻地在身上晃动，仿佛在拂去雨滴。
 		</p>
 	</section>
 </section>
