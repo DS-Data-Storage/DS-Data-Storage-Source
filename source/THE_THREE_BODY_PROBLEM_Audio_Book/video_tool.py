@@ -61,7 +61,7 @@ if __name__ == "__main__":
     wb = load_workbook(excel_file)
     ws = wb.active  # 获取活动工作表
 
-    for n in range(13, 18):
+    for n in range(17, 21):
         # 设置要读取的行号n（可以根据需要修改）
         # n = 6  # 例如读取第1行
 

@@ -176,6 +176,20 @@ categories:
 	</section>
 </section>
 
+<!-- 附录 -->
+<section data-role="paragraph" class="_myeditor">
+	<section style="background-color: #F3F4F4; padding: 20px; border-radius: 8px; margin: 15px 0;">
+		<h3 style="color: #2F4154; font-size: 17px;">
+			🎈 附录：<em>August Editorial</em>
+		</h3>
+		<p style="color: #2F4154;">
+		<strong>Translator’s Note:</strong> <em>This refers to the August 1967 editorial in Red Flag magazine (an important source of propaganda during the Cultural Revolution), which advocated for “pulling out the handful [of counter-revolutionaries] within the army.” Many read the editorial as tacitly encouraging Red Guards to attack military armories and seize weapons from the PLA, further inflaming the local civil wars waged by Red Guard factions.</em>
+		<br>
+		<strong>译者注:</strong> 这里指的是1967年8月《红旗》杂志（文化大革命期间的一个重要宣传来源）的社论，该社论主张“把军队中的一小撮（反革命分子）揪出来。”许多人将这篇社论解读为默许红卫兵攻击军械库，从解放军手中夺取武器，进一步加剧了红卫兵派系发动的地方内战。
+		</p>
+	</section>
+</section>
+
 <!-- 结束空行 -->
 <section data-role="paragraph" class="_myeditor">
 	<p><br/></p>
