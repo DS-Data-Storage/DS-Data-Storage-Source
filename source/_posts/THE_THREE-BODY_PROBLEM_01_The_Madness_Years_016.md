@@ -134,7 +134,7 @@ categories:
 
 		<h4 style="color: #922B21; margin-top: 20px; font-size: 17px;">英文直译：</h4>
 		<p style="font-size: 16px; color: #922B21; padding: 10px; background-color: white; border-left: 4px solid #E74C3C;">
-			接着，她年轻的半个脑袋被炸掉了，只剩下一只美丽的眼睛凝视着1967年的蓝天。那目光里没有痛苦，只有凝固的虔诚和向往。
+			接着她年轻的半边头颅被炸飞，唯有一只美丽的眼睛残留，凝望着1967年的蓝天。那凝视中没有痛苦，唯有凝固的忠诚与渴望。
 		</p>
 	</section>
 </section>

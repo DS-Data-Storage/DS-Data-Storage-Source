@@ -138,7 +138,7 @@ categories:
 
 		<h4 style="color: #922B21; margin-top: 20px; font-size: 17px;">英文直译：</h4>
 		<p style="font-size: 16px; color: #922B21; padding: 10px; background-color: white; border-left: 4px solid #E74C3C;">
-			大多数大门的金属杆，顶端都是尖尖的，在派系内战开始时被拉下来当长矛用，但是还有两根保留了下来。当它们锋利的尖端抓住女孩时，生命似乎瞬间回到了她的身体。
+			铁门上那些顶端带尖的金属栏杆，在派系内战初期大多被拆下当作长矛使用，唯余两根尚存。当锋利的尖端刺入少女身体时，生命仿佛瞬间重返她的躯体。
 		</p>
 	</section>
 </section>
