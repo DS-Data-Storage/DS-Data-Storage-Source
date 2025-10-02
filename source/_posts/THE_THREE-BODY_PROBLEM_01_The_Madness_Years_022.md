@@ -111,12 +111,12 @@ categories:
 
 			<p><strong>原因状语：</strong><em>each based on different backgrounds and agendas</em></p>
 			<ul>
-				<li><strong>each 作为主语的补充说明，强调每个新分裂出来的小组。
-<li><strong> 表示“基于”，说明分裂的原因。
-<li><strong>（“不同的背景和议程”），解释了分裂的根源。
+				<li><strong>each</strong> 作为主语的补充说明，强调每个新分裂出来的小组。
+<li><strong>based on</strong>  表示“基于”，说明分裂的原因。
+<li><strong>different backgrounds and agendas</strong>（“不同的背景和议程”），解释了分裂的根源。
 
-<p>
-		<p><strong>结果状语：</strong><em>leading to even more ruthless fighting</em></p>
+</ul>
+		<p><p><strong>结果状语：</strong><em>leading to even more ruthless fighting</em></p>
 		<ul>
 			<li><strong>leading to</strong> 表示“导致”，引导结果状语。</li>
 			<li><strong>even more ruthless fighting</strong>（“更加无情的战斗”），强调了分裂带来的后果。</li>

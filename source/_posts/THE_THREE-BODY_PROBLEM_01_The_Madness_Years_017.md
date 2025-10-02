@@ -131,7 +131,7 @@ categories:
 
 		<h4 style="color: #922B21; margin-top: 20px; font-size: 17px;">英文直译：</h4>
 		<p style="font-size: 16px; color: #922B21; padding: 10px; background-color: white; border-left: 4px solid #E74C3C;">
-			然而，与其他人相比，她是幸运的。至少她死于为理想而热情牺牲自己的痛苦中。
+			然而，与其他一些人相比，她是幸运的。至少，她是在为理想献身的激情中死去的。
 		</p>
 	</section>
 </section>
