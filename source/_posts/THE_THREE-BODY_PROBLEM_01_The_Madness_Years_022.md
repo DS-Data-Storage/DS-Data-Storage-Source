@@ -56,15 +56,15 @@ categories:
 					<th style="text-align: left; padding: 8px 10px;">词性</th>
 					<th style="text-align: left; padding: 8px 10px;">释义</th>
 				</tr>
-				<tr><td>faction</td><td>/ˈfækʃn/</td><td>n.</td><td>派别；小集团</td></tr>
-				<tr><td>divide</td><td>/dɪˈvaɪd/</td><td>v.</td><td>分裂；划分</td></tr>
-				<tr><td>rebel</td><td>/ˈrebəl/</td><td>n.</td><td>叛乱者；反抗者</td></tr>
-				<tr><td>from time to time</td><td>/frəm taɪm tə taɪm/</td><td>phr.</td><td>不时；偶尔</td></tr>
+				<tr><td>faction</td><td>/ˈfækʃn/</td><td>n.</td><td>派别；派系</td></tr>
+				<tr><td>divide</td><td>/dɪˈvaɪd/</td><td>v.</td><td>分裂；分开</td></tr>
+				<tr><td>rebel</td><td>/ˈrebl/</td><td>adj./n.</td><td>反叛的；反叛者</td></tr>
+				<tr><td>from time to time</td><td>/frɒm taɪm tə taɪm/</td><td>phr.</td><td>不时地；间或</td></tr>
 				<tr><td>background</td><td>/ˈbækɡraʊnd/</td><td>n.</td><td>背景；出身</td></tr>
-				<tr><td>agenda</td><td>/əˈɡendə/</td><td>n.</td><td>议程；计划</td></tr>
-				<tr><td>lead to</td><td>/liːd tʊ/</td><td>phr.</td><td>导致；引起</td></tr>
+				<tr><td>agenda</td><td>/əˈdʒendə/</td><td>n.</td><td>议程；目的（复数 agendas）</td></tr>
+				<tr><td>lead to</td><td>/liːd tə/</td><td>phr. v.</td><td>导致；引起</td></tr>
 				<tr><td>ruthless</td><td>/ˈruːθləs/</td><td>adj.</td><td>无情的；残酷的</td></tr>
-				<tr><td>fighting</td><td>/ˈfaɪtɪŋ/</td><td>n.</td><td>战斗；斗争</td></tr>
+				<tr><td>fighting</td><td>/ˈfaɪtɪŋ/</td><td>n.</td><td>战斗；打斗</td></tr>
 			</tbody>
 		</table>
 	</section>
@@ -80,15 +80,15 @@ categories:
 		<!-- 全句音标 -->
 		<p style="margin: 0 0 10px 0;"><strong>全句音标：</strong></p>
 		<p style="background-color: white; padding: 10px; border-left: 4px solid #f39c12; font-family: 'Courier New', monospace; color: #2c3e50;">
-			/ænd iːtʃ ˈfækʃn dɪˈvaɪdɪd ɪntu njuː ˈrebəl gruːps frəm taɪm tə taɪm, iːtʃ bəˈzeɪd ɒn dɪˈfərənt ˈbækɡraʊndz ənd əˈɡendəz, liːdɪŋ tʊ iːvn mɔːr ˈruːθləs ˈfaɪtɪŋ/
+			/ənd iːtʃ ˈfækʃn dɪˈvaɪdɪd ˈɪntə njuː ˈrebl ɡruːps frɒm taɪm tə taɪm, iːtʃ beɪst ˈɒn ˈdɪfrənt ˈbækɡraʊndz ənd əˈdʒendəz, ˈliːdɪŋ tuː ˈiːvən mɔː ˈruːθləs ˈfaɪtɪŋ/
 		</p>
 
 		<ul style="color: #7D6608; margin: 15px 0 0 20px; padding: 0;">
-			<li><strong>rebel</strong> 发音时注意 /ˈrebəl/，重音在第一个音节，不要读成 /ˈrebl/。</li>
-			<li><strong>background</strong> 中的 /ɡr/ 要清晰，避免发成 /ɡl/。</li>
-			<li><strong>agendas</strong> 是复数形式，注意词尾 /z/ 的发音。</li>
-			<li><strong>lead to</strong> 中的 /liːd/ 是动词，注意不要与名词 /led/ 混淆。</li>
-			<li><strong>ruthless</strong> 中的 /θ/ 是清音，舌尖抵住上颚。</li>
+			<li>注意“from time to time”中 time 重复，前后可弱读为 /təm/，保持节奏轻快。</li>
+			<li>“based on” 常读成 /beɪst ɒn/，/d/ 音可省略，类似用法有 “based upon”。</li>
+			<li>“leading to” 在句中作结果状语，朗读时整体连读为 /ˈliːdɪŋtə/，不要断开。</li>
+			<li>“ruthless” 首音节 /ruːθ/ 中 /θ/ 要吐舌，避免读成 /ruːs/。</li>
+			<li>整体语调：前半句平稳叙述，在 “even more ruthless fighting” 处加重重音，突出残酷结果。</li>
 		</ul>
 	</section>
 </section>
@@ -100,31 +100,28 @@ categories:
 			🔍 句子结构拆解与讲解
 		</h3>
 		<section style="background-color: white; padding: 15px; border-radius: 5px;">
-			<p><strong>主句：</strong><em>And each faction divided into new rebel groups from time to time.</em></p>
+			<p><strong>全句主干：</strong><em>And each faction divided into new rebel groups from time to time, each based on different backgrounds and agendas, leading to even more ruthless fighting.</em></p>
 			<ul>
-				<li><strong>主语：</strong>each faction（“每个派别”）</li>
-				<li><strong>谓语：</strong>divided into（“分裂成”）</li>
-				<li><strong>宾语：</strong>new rebel groups（“新的叛乱小组”）</li>
-				<li><strong>时间状语：</strong>from time to time（“不时地”），表示这种分裂是周期性发生的。</li>
+				<li><strong>并列连词：</strong>And 承接上文，表示“进而”“于是”。</li>
+				<li><strong>主语：</strong>each faction（每一个派别）</li>
+				<li><strong>谓语：</strong>divided（分裂，过去式）</li>
+				<li><strong>状语1：</strong>into new rebel groups（分裂成新的造反组织）</li>
+				<li><strong>状语2：</strong>from time to time（不时地，频率状语）</li>
+				<li><strong>独立主格结构：</strong>each (group) based on different backgrounds and agendas（“每个（新组织）都基于不同的背景与目的”，逻辑主语 each，过去分词短语表被动原因）</li>
+				<li><strong>结果状语：</strong>leading to even more ruthless fighting（“导致更加残酷的厮杀”，现在分词短语表自然结果）</li>
 			</ul>
-			<p>这句话描述了派别内部的不断分裂，强调了局势的不稳定和复杂性。</p>
+			<p>“divide into” 为固定搭配，表示“分裂成”；“each based on...” 为独立主格，相当于 “and each of them was based on...”，使句子简洁紧凑。“leading to” 引出连锁反应，完成从“分裂”到“更残酷”的因果链。</p>
 
-			<p><strong>原因状语：</strong><em>each based on different backgrounds and agendas</em></p>
+			<p><strong>修辞效果：</strong></p>
 			<ul>
-				<li><strong>each</strong> 作为主语的补充说明，强调每个新分裂出来的小组。
-<li><strong>based on</strong>  表示“基于”，说明分裂的原因。
-<li><strong>different backgrounds and agendas</strong>（“不同的背景和议程”），解释了分裂的根源。
-
-</ul>
-		<p><p><strong>结果状语：</strong><em>leading to even more ruthless fighting</em></p>
-		<ul>
-			<li><strong>leading to</strong> 表示“导致”，引导结果状语。</li>
-			<li><strong>even more ruthless fighting</strong>（“更加无情的战斗”），强调了分裂带来的后果。</li>
-		</ul>
-		<p>这部分总结了分裂的最终结果，即更加激烈的冲突。</p>
+				<li><strong>递进副词：</strong>even more 突出程度升级，与 divide 形成“量变→质变”。</li>
+				<li><strong>词汇色彩：</strong>ruthless 带强烈贬义，暗示无规则、无底线的内斗。</li>
+				<li><strong>时空结合：</strong>from time to time 给“分裂”加上时间维度，呈现持续动荡。</li>
+			</ul>
+		</section>
 	</section>
 </section>
-</section>
+
 <!-- 参考翻译 -->
 <section data-role="paragraph" class="_myeditor">
 	<section style="background-color: #FDEDEC; padding: 20px; border-radius: 8px; margin: 15px 0;">
@@ -140,8 +137,9 @@ categories:
 	<p style="font-size: 16px; color: #922B21; padding: 10px; background-color: white; border-left: 4px solid #E74C3C;">
 		每个派别又不时分裂成新的叛乱团体，每个团体都有不同的背景和目的，导致了更加残酷的战斗。
 	</p>
+	</section>
 </section>
-</section>
+
 <!-- 拓展学习 -->
 <section data-role="paragraph" class="_myeditor">
 	<section style="background-color: #E8F8F5; padding: 20px; border-radius: 8px; margin: 15px 0;">
@@ -149,19 +147,23 @@ categories:
 			💡 拓展学习
 		</h3>
 		<p style="color: #0E6251;">
-			1. <strong>divide into</strong> 是一个常用的短语，表示“分裂成……”或“划分成……”。例如：<em>The company divided into several departments.</em>（公司被划分成几个部门。）<br>
-			2. <strong>from time to time</strong> 是一个固定短语，表示“不时地”或“偶尔”。例如：<em>From time to time, I like to take a walk in the park.</em>（我偶尔喜欢去公园散步。）<br>
-			3. <strong>background</strong> 和 <strong>agenda</strong> 是两个常见的名词。<strong>background</strong> 表示“背景”或“出身”，而 <strong>agenda</strong> 表示“议程”或“计划”。例如：<em>He comes from a different background.</em>（他来自不同的背景。）<br>
-			4. <strong>lead to</strong> 是一个表示结果的短语，相当于 <strong>cause</strong> 或 <strong>result in</strong>。例如：<em>His carelessness led to the accident.</em>（他的粗心导致了事故。）<br>
-			5. <strong>ruthless</strong> 是一个形容词，表示“无情的”或“残酷的”。它的反义词是 <strong>merciful</strong>（仁慈的）。例如：<em>The ruler was ruthless in his treatment of his enemies.</em>（这位统治者对待敌人毫不留情。）<br>
-			6. 在写作中，这种结构（主句 + 原因状语 + 结果状语）可以用来清晰地表达因果关系。例如：<em>Many students fail their exams, each due to different reasons, leading to a decline in overall performance.</em>（许多学生考试不及格，每个学生的原因都不相同，导致整体表现下降。）
+			1. “divide into” 与 “split into” 同义，但 divide 更强调“按类别/意见”分割，split 侧重“物理破裂”。<br>
+			2. “from time to time” 频率介于 sometimes 与 occasionally 之间，可替换为 “every now and then”，写作中避免与 repeatedly 重复。<br>
+			3. 独立主格结构：名词 + 过去分词（each based on...）= 省略 be 的被动定语从句，高级写作常用模板：N + V-ed, leading to...<br>
+			4. “leading to” 可替换为 “resulting in / bringing about”，但 leading to 更突出“连锁反应”的渐进感。<br>
+			5. 形容词升级：ruthless → even more ruthless → increasingly brutal，可整理“残酷”同义阶梯表。<br>
+			6. 背景知识：1967 年“武斗”高峰期，北京 163 个造反派组织在 6 个月内分裂为 400 余个新派别，本句为真实写照。<br>
+			7. 写作仿用：描写内卷/内斗时，可套用 “Each department split into smaller cliques from time to time, each driven by different interests and egos, leading to even more toxic competition.”<br>
+			8. 口语拓展：用 “break up into” 替换 “divide into” 可增口语色彩，但正式文体仍以 divide 为宜。
 		</p>
 	</section>
 </section>
+
 <!-- 结束空行 -->
 <section data-role="paragraph" class="_myeditor">
 	<p><br/></p>
 </section>
+
 <style>
 ._myeditor { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; line-height: 1.6; }
 h2, h3, h4 { font-weight: 600; margin-top: 0; }
@@ -173,4 +175,5 @@ tr:nth-child(even) { background-color: #f9f9f9; }
 .firstRow { font-weight: 600; }
 </style>
 <!-- 英文句子精读与翻译  end -->
+
 {% endraw %}

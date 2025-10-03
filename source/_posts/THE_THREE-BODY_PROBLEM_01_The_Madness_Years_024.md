@@ -1,6 +1,6 @@
 ---
 title: 1.24 The Madness Years 024《三体Ⅰ：01 疯狂年代》
-date: 2025-10-02 00:18:55
+date: 2025-10-02 18:55:00
 tags:
 - 三体
 - 疯狂年代
@@ -56,17 +56,16 @@ categories:
 					<th style="text-align: left; padding: 8px 10px;">词性</th>
 					<th style="text-align: left; padding: 8px 10px;">释义</th>
 				</tr>
-				<tr><td>compared</td><td>/kəmˈpeəd/</td><td>adj.</td><td>比较的；对照的</td></tr>
-				<tr><td>monster</td><td>/ˈmɒnstə(r)/</td><td>n.</td><td>怪物；恶人</td></tr>
-				<tr><td>demon</td><td>/ˈdiːmən/</td><td>n.</td><td>恶魔；魔鬼</td></tr>
-				<tr><td>reactionary</td><td>/rɪˈækʃənəri/</td><td>adj.</td><td>反动的；保守的</td></tr>
-				<tr><td>academic</td><td>/ˌækəˈdemɪk/</td><td>adj.</td><td>学术的；学院的</td></tr>
-				<tr><td>authority</td><td>/ɔːˈθɒrəti/</td><td>n.</td><td>权威；权力</td></tr>
+				<tr><td>monster</td><td>/ˈmɒnstə(r)/</td><td>n.</td><td>怪物；妖魔（文革术语，指被打倒对象）</td></tr>
+				<tr><td>demon</td><td>/ˈdiːmən/</td><td>n.</td><td>恶魔；厉鬼</td></tr>
+				<tr><td>reactionary</td><td>/riˈækʃənri/</td><td>adj./n.</td><td>反动的；反动分子</td></tr>
+				<tr><td>academic</td><td>/ˌækəˈdemɪk/</td><td>adj.</td><td>学术的；高校的</td></tr>
+				<tr><td>authority</td><td>/ɔːˈθɒrəti/</td><td>n.</td><td>权威；当局（复数指“权威人士”）</td></tr>
 				<tr><td>arrogant</td><td>/ˈærəɡənt/</td><td>adj.</td><td>傲慢的；自大的</td></tr>
 				<tr><td>stubborn</td><td>/ˈstʌbən/</td><td>adj.</td><td>顽固的；倔强的</td></tr>
-				<tr><td>stage</td><td>/steɪdʒ/</td><td>n.</td><td>阶段；舞台</td></tr>
-				<tr><td>die</td><td>/daɪ/</td><td>v.</td><td>死亡；消亡</td></tr>
-				<tr><td>number</td><td>/ˈnʌmbə(r)/</td><td>n.</td><td>数量；数字</td></tr>
+				<tr><td>stage</td><td>/steɪdʒ/</td><td>n.</td><td>阶段；时期</td></tr>
+				<tr><td>in large numbers</td><td>/ɪn lɑːdʒ ˈnʌmbəz/</td><td>phr.</td><td>大量地；大批地</td></tr>
+				<tr><td>compared to</td><td>/kəmˈpeəd tə/</td><td>phr.</td><td>与……相比</td></tr>
 			</tbody>
 		</table>
 	</section>
@@ -82,21 +81,15 @@ categories:
 		<!-- 全句音标 -->
 		<p style="margin: 0 0 10px 0;"><strong>全句音标：</strong></p>
 		<p style="background-color: white; padding: 10px; border-left: 4px solid #f39c12; font-family: 'Courier New', monospace; color: #2c3e50;">
-			/kəmˈpeəd tu ˈʌðə ˈmɒnstəz ənd ˈdiːmənz, rɪˈækʃənəri ˌækəˈdemɪk ɔːˈθɒrətiz wə ˈspeʃl: ˈdjʊərɪŋ ði ˈɜːlɪəst ˈstrʌɡl ˈseʃn, ðeɪ hæd bɪn bəʊθ ˈærəɡənt ənd ˈstʌbən. ðæt wəz ˈɔːlsəʊ ðə steɪdʒ ɪn wɪtʃ ðeɪ hæd daɪd ɪn ðə ˈlɑːdʒɪst ˈnʌmbəz/
+			/kəmˈpeəd tuː ˈʌðə ˈmɒnstəz ənd ˈdiːmənz, riˈækʃənri ˌækəˈdemɪk ɔːˈθɒrətiz wɜː ˈspeʃl: ˈdjʊərɪŋ ði ˈɜːlɪɪst ˈstrʌɡl ˈseʃnz, ðeɪ hæd biːn bəʊθ ˈærəɡənt ənd ˈstʌbən. ðæt wɒz ˈɔːlsəʊ ðə steɪdʒ ɪn wɪtʃ ðeɪ hæd daɪd ɪn ðə lɑːdʒɪst ˈnʌmbəz/
 		</p>
 
 		<ul style="color: #7D6608; margin: 15px 0 0 20px; padding: 0;">
-			<li><strong>compared</strong> 发音时注意 /kəmˈpeəd/，重音在第二个音节。</li>
-			<li><strong>monster</strong> 发音时注意 /ˈmɒnstə(r)/，重音在第一个音节。</li>
-			<li><strong>demon</strong> 发音时注意 /ˈdiːmən/，重音在第一个音节。</li>
-			<li><strong>reactionary</strong> 发音时注意 /rɪˈækʃənəri/，重音在第二个音节。</li>
-			<li><strong>academic</strong> 发音时注意 /ˌækəˈdemɪk/，重音在第三个音节。</li>
-			<li><strong>authority</strong> 发音时注意 /ɔːˈθɒrəti/，重音在第二个音节。</li>
-			<li><strong>arrogant</strong> 发音时注意 /ˈærəɡənt/，重音在第一个音节。</li>
-			<li><strong>stubborn</strong> 发音时注意 /ˈstʌbən/，重音在第一个音节。</li>
-			<li><strong>stage</strong> 发音时注意 /steɪdʒ/，重音在第一个音节。</li>
-			<li><strong>die</strong> 发音时注意 /daɪ/，重音在第一个音节。</li>
-			<li><strong>number</strong> 发音时注意 /ˈnʌmbə(r)/，重音在第一个音节。</li>
+			<li>朗读时注意“Monsters and Demons”中的连读，/z ænd/ 可弱读为 /zən/。</li>
+			<li>“reactionary academic authorities”三词均为重音词，建议慢速重读以突出术语感。</li>
+			<li>“arrogant and stubborn”中的 /æ/ 与 /ʌ/ 需区分，避免读成 /əˈrɒɡənt/。</li>
+			<li>“in which”可连读为 /ɪn wɪtʃ/，不要省略 /w/ 音。</li>
+			<li>结尾“largest numbers”重音落在第一音节 /ˈlɑːdʒɪst/，语调下沉以体现沉重感。</li>
 		</ul>
 	</section>
 </section>
@@ -110,21 +103,29 @@ categories:
 		<section style="background-color: white; padding: 15px; border-radius: 5px;">
 			<p><strong>第一句：</strong><em>Compared to other “Monsters and Demons,” reactionary academic authorities were special: During the earliest struggle sessions, they had been both arrogant and stubborn.</em></p>
 			<ul>
-				<li><strong>Compared to other “Monsters and Demons,”</strong>：过去分词短语作状语，表示“与……相比”。</li>
-				<li><strong>reactionary academic authorities</strong>：主语，表示“反动的学术权威”。</li>
-				<li><strong>were special</strong>：系表结构，表示“是特殊的”。</li>
-				<li><strong>During the earliest struggle sessions,</strong>：时间状语，表示“在最早的斗争阶段”。</li>
-				<li><strong>they had been both arrogant and stubborn.</strong>：主系表结构，表示“他们既傲慢又固执”。</li>
+				<li><strong>比较状语：</strong>Compared to other “Monsters and Demons”（与别的“牛鬼蛇神”相比，引号表反讽）</li>
+				<li><strong>主语：</strong>reactionary academic authorities（反动学术权威，文革专有标签）</li>
+				<li><strong>系表结构：</strong>were special（具有特殊性）</li>
+				<li><strong>时间状语：</strong>During the earliest struggle sessions（在最早的一批批斗会中）</li>
+				<li><strong>主语补语：</strong>they had been both arrogant and stubborn（他们既傲慢又顽固，过去完成时强调“在更早阶段即已如此”）</li>
 			</ul>
-			<p>这句话通过对比的方式，强调了反动学术权威的特殊性，并描述了他们在斗争阶段的表现。</p>
+			<p>冒号起到解释说明作用，后句为“special”的具体表现；形容词并列“arrogant and stubborn”用 both...and... 加强语气，暗示其“拒不认罪”的姿态导致更惨烈下场。</p>
 
 			<p><strong>第二句：</strong><em>That was also the stage in which they had died in the largest numbers.</em></p>
 			<ul>
-				<li><strong>That</strong>：主语，指代前文提到的“阶段”。</li>
-				<li><strong>was also the stage</strong>：系表结构，表示“也是那个阶段”。</li>
-				<li><strong>in which they had died in the largest numbers.</strong>：定语从句，表示“在那个阶段，他们死亡人数最多”。</li>
+				<li><strong>主语：</strong>That（指代“最早批斗阶段”）</li>
+				<li><strong>系表结构：</strong>was also the stage（也是那个阶段）</li>
+				<li><strong>定语从句：</strong>in which they had died in the largest numbers（他们在该阶段死亡人数最多）</li>
+				<li><strong>介词短语：</strong>in the largest numbers（数量最大，副词最高级修饰 die）</li>
 			</ul>
-			<p>这句话进一步说明了在那个阶段，反动学术权威的死亡人数最多，暗示了斗争的残酷性。</p>
+			<p>“in which”引导的定语从句避免重复 stage，使行文紧凑；最高级“largest numbers”与前句“arrogant and stubborn”形成因果链：态度越顽固 → 批斗越升级 → 死亡人数越多。</p>
+
+			<p><strong>修辞与背景：</strong></p>
+			<ul>
+				<li><strong>反讽引号：</strong>“Monsters and Demons”并非真指妖魔鬼怪，而是文革话语体系中对“批斗对象”的污名化标签。</li>
+				<li><strong>委婉语：</strong>“died”实为“被批斗致死”，英文用中性词反衬历史残酷。</li>
+				<li><strong>递进结构：</strong>special → earliest → largest numbers，三步递进，揭示知识分子在初始阶段即被集中打击的悲惨命运。</li>
+			</ul>
 		</section>
 	</section>
 </section>
@@ -155,12 +156,28 @@ categories:
 			💡 拓展学习
 		</h3>
 		<p style="color: #0E6251;">
-			1. <strong>compared to</strong> 是一个常用的比较结构，表示“与……相比”。例如：<em>Compared to other students, he is more diligent.</em>（与其他学生相比，他更勤奋。）<br>
-			2. <strong> Monsters and Demons</strong> 在文革语境中是贬义标签，指“牛鬼蛇神”，英文直译保留首字母大写，体现特定政治符号。<br>
-			3. <strong>had been both arrogant and stubborn</strong> 中 both...and... 连接两个形容词，表示“既……又……”，加强语气。<br>
-			4. <strong>in which they had died</strong> 为定语从句，介词提前，正式书面语特征，可改写为 where they died，但语义重心不同。<br>
-			5. <strong>in the largest numbers</strong> 为固定搭配，表示“数量最多”，副词最高级修饰动词 die，突出规模之巨。<br>
-			6. 写作模仿：用 compared to 引出对比对象，再用冒号给出解释，适合议论文“提出观点—给出论据”的段落模式。
+			1. “Monsters and Demons”直译“牛鬼蛇神”，英文保留引号以提示文化负载词，写作中可补充脚注或同位语解释。<br>
+			2. “reactionary academic authorities”三词均为贬义标签，类似结构有“bourgeois intellectuals”“counter-revolutionary technocrats”，可对比学习文革英语报道常用形容词。<br>
+			3. “had been”过去完成时表示“在批斗会开始之前即已具备傲慢顽固特质”，强调“原罪”式定性。<br>
+			4. “in the largest numbers”可替换为“in the greatest concentration”或“on the largest scale”，但“numbers”突出“死亡人数”而非“规模”。<br>
+			5. 比较结构“Compared to...”可置于句首或句尾，置于句首时形成“先比较、后结论”的悬念效果。<br>
+			6. 冒号在英文中用于“解释说明”时，后句可独立成句，亦可为小写，本句采用大写体现强调。<br>
+			7. 历史背景：1966 年 6 月—9 月为“首批批斗高峰”，高校教授被当众挂牌、坐“喷气式”，本句即为该阶段缩影。<br>
+			8. 写作技巧：用“stage”代指“时期”可避免多次重复 period / phase，增加用词多样性。
+		</p>
+	</section>
+</section>
+
+<!-- 附录 -->
+<section data-role="paragraph" class="_myeditor">
+	<section style="background-color: #F3F4F4; padding: 20px; border-radius: 8px; margin: 15px 0;">
+		<h3 style="color: #2F4154; font-size: 17px;">
+			🎈 附录：<em>Monsters and Demons</em>
+		</h3>
+		<p style="color: #2F4154;">
+		<strong>Translator’s Note:</strong> <em>Originally a term from Buddhism, “Monsters and Demons” was used during the Cultural Revolution to refer to all the enemies of the revolution.</em>
+		<br>
+		<strong>译者注:</strong> "妖魔鬼怪" 本是佛教用语，在文革期间被用来指代所有革命的敌人。
 		</p>
 	</section>
 </section>
